@@ -25,7 +25,7 @@ export default class Navigation extends Component {
             <ul class="navbar-nav ms-auto">
               <li class="nav-item ">
                 <Link className="nav-link" to="/map">
-                  Mapa
+                  Mapa Ricolino
                 </Link>
               </li>
               <li class="nav-item">
